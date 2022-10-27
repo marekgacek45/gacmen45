@@ -1,7 +1,19 @@
 ### Hi there 
 - 🔭 I’m currently working on ...
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gacmen45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacmen45&theme=radical&show_icons=true)
+
+
+
+
+
+
+
 <!--
 **gacmen45/gacmen45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
