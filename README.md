@@ -40,9 +40,6 @@ I'm a Frontend Developer from Poland.
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-231572B6
-
-
 ### :fire: My Stats :
 <div align="center">
   
