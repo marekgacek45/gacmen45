@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/marek-gacek">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://m.me/marek.gacek.9465">
+    <img src="https://img.shields.io/badge/Messenger-white?style=for-the-badge&logo=messenger&logoColor=blue" alt="Messenger Badge"/>
+  </a> 
   </div>
   <img src="https://komarev.com/ghpvc/?username=gacmen45&style=flat-square&color=yellow" alt=""/>
  <h1>
