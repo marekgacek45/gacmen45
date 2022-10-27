@@ -28,21 +28,31 @@ I'm a Frontend Developer from Poland.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-
+![React](https://img.shields.io/badge/react-%231579B6.svg?style=for-the-badge&logo=react&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![GULP](https://img.shields.io/badge/gulp-%231572B6.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+231572B6
+
+
+### :fire: My Stats :
+<div align="center">
+  
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=gacmen45&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gacmen45&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacmen45&theme=radical&show_icons=true)
 
-
-
+</div>
 
 
 
