@@ -1,7 +1,7 @@
 ### Hi there 
 - 🔭 I’m currently working on ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacmen45&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gacmen45&theme=tokyonight&show_icons=true)
 <!--
 **gacmen45/gacmen45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
