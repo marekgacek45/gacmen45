@@ -1,12 +1,31 @@
-<div align="center">
-<img src ='(https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47lhf5yvp8z16kerd354beyo5e6fxfuk0mftzb1212&rid=giphy.gif&ct=g'/>
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47lhf5yvp8z16kerd354beyo5e6fxfuk0mftzb1212&rid=giphy.gif&ct=g" width="250"/>
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/marek-gacek">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=gacmen45&style=flat-square&color=yellow" alt=""/>
+ <h1>
+  Hey there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+</h1>
 </div>
 
+### :man_technologist: About Me :
 
-![Alt Text](https://media4.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e47lhf5yvp8z16kerd354beyo5e6fxfuk0mftzb1212&rid=giphy.gif&ct=g)
+I'm a Frontend Developer from Poland.
 
-### Hi there 
-- 🔭 I’m currently working on ...
+- :mortar_board: I’m improving my skill in frontend. In particular, I am focusing on JavaScript and React. 
+
+- :video_game: In my free time I'm interested in games.
+
+- :zap: In January 2023 I'm planning to create a website which will connent my passsions.
+
+
+
+
+
 
 
 
