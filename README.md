@@ -23,7 +23,7 @@ I'm a Frontend Developer from Poland.
 
 - :video_game: In my free time I'm interested in games.
 
-- :zap: In January 2023 I'm planning to create a website which will connent my passsions.
+- :zap: I cordialy invite you to beta version of my web-page/blog (https://gameend.pl) where I write posts about frontend, especially about React and games.
 
 
 ### :hammer_and_wrench: Languages and Tools :
